@@ -112,12 +112,5 @@ This ensures background jobs (e.g., TCP retries) are processed.
 - **Retries**: If a TCP request fails, the system retries with increasing delays.
 - **Queue System**: All critical TCP requests run in the background to prevent crashes.
 
----
 
-## Next Steps
-🔹 **Would you like real-time notifications for stock alerts?**
-🔹 **Do you need a dashboard to monitor stock levels & reports?**
-🔹 **Should we implement role-based permissions for future scalability?**
-
-Let me know how we should improve this! 🚀
 
